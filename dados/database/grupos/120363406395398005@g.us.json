@@ -1,0 +1,44 @@
+{
+  "mark": {},
+  "createdAt": "2026-03-30T14:34:08.127Z",
+  "groupName": "chat das brabinha",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "176433431355592@lid",
+      "msg": 4,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "ㅤㅤ",
+      "firstSeen": "2026-03-30T14:34:08.133Z",
+      "lastActivity": "2026-03-30T14:34:25.147Z"
+    },
+    {
+      "id": "125035775840349@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "bel'",
+      "firstSeen": "2026-03-30T14:38:20.493Z",
+      "lastActivity": "2026-03-30T14:38:20.493Z"
+    },
+    {
+      "id": "57437017079902@lid",
+      "msg": 166,
+      "cmd": 9,
+      "figu": 11,
+      "pushname": "ㅤㅤㅤㅤㅤByLzzzzz.             #671'",
+      "firstSeen": "2026-03-30T14:38:27.099Z",
+      "lastActivity": "2026-03-31T17:45:39.047Z"
+    }
+  ]
+}

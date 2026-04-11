@@ -1,0 +1,80 @@
+{
+  "mark": {},
+  "createdAt": "2026-03-30T14:33:45.502Z",
+  "groupName": "X1 • X6 🩸 | 𝘽𝙇𝙊𝙊𝘿 𝙍𝙀𝘿",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "1417590898856@lid",
+      "msg": 18,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Kauan",
+      "firstSeen": "2026-03-30T14:33:45.518Z",
+      "lastActivity": "2026-03-30T14:46:07.450Z"
+    },
+    {
+      "id": "47554247041080@lid",
+      "msg": 10,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "nay",
+      "firstSeen": "2026-03-30T14:34:22.971Z",
+      "lastActivity": "2026-03-30T14:46:14.725Z"
+    },
+    {
+      "id": "195884901994617@lid",
+      "msg": 7,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Júnior",
+      "firstSeen": "2026-03-30T14:35:17.553Z",
+      "lastActivity": "2026-03-30T14:45:18.764Z"
+    },
+    {
+      "id": "104759268745373@lid",
+      "msg": 12,
+      "cmd": 0,
+      "figu": 3,
+      "pushname": "CJ",
+      "firstSeen": "2026-03-30T14:36:38.566Z",
+      "lastActivity": "2026-03-30T14:46:14.161Z"
+    },
+    {
+      "id": "267473601482841@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Santoz",
+      "firstSeen": "2026-03-30T14:36:39.052Z",
+      "lastActivity": "2026-03-30T14:39:35.596Z"
+    },
+    {
+      "id": "88146284953685@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "dv",
+      "firstSeen": "2026-03-30T14:40:42.753Z",
+      "lastActivity": "2026-03-30T14:40:42.753Z"
+    },
+    {
+      "id": "109663769108706@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Cuick",
+      "firstSeen": "2026-03-30T14:41:38.190Z",
+      "lastActivity": "2026-03-30T14:41:38.190Z"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "mark": {},
+  "createdAt": "2026-04-03T20:51:37.284Z",
+  "groupName": "chat das monsters",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "14242715574397@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "gabi’",
+      "firstSeen": "2026-04-03T20:51:37.284Z",
+      "lastActivity": "2026-04-03T20:51:37.284Z"
+    },
+    {
+      "id": "148550805676280@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "bgk ᥣᥲrᥡ ‘",
+      "firstSeen": "2026-04-03T20:51:37.300Z",
+      "lastActivity": "2026-04-03T20:51:53.737Z"
+    },
+    {
+      "id": "111330585493534@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "ceaga",
+      "firstSeen": "2026-04-03T20:51:40.956Z",
+      "lastActivity": "2026-04-03T20:51:40.956Z"
+    },
+    {
+      "id": "36898802286813@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "demônio capeta satanás",
+      "firstSeen": "2026-04-03T20:51:46.284Z",
+      "lastActivity": "2026-04-03T20:51:46.284Z"
+    },
+    {
+      "id": "187085235433641@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "h",
+      "firstSeen": "2026-04-03T20:52:09.034Z",
+      "lastActivity": "2026-04-03T20:52:09.034Z"
+    },
+    {
+      "id": "204045994172500@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "𝙥𝙚𝙩𝙧𝙤𝙫𝙖",
+      "firstSeen": "2026-04-03T21:01:43.591Z",
+      "lastActivity": "2026-04-03T21:01:43.591Z"
+    },
+    {
+      "id": "5949284716594@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "thefaultlieswiththestars",
+      "firstSeen": "2026-04-03T21:32:08.025Z",
+      "lastActivity": "2026-04-03T21:32:08.025Z"
+    },
+    {
+      "id": "171554734379013@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "samytop’",
+      "firstSeen": "2026-04-03T21:37:59.807Z",
+      "lastActivity": "2026-04-03T21:38:08.092Z"
+    },
+    {
+      "id": "56754452824179@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Uriel Troll",
+      "firstSeen": "2026-04-03T21:38:46.116Z",
+      "lastActivity": "2026-04-03T21:38:46.116Z"
+    }
+  ]
+}

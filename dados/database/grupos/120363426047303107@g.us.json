@@ -1,0 +1,71 @@
+{
+  "mark": {},
+  "createdAt": "2026-03-30T18:06:31.223Z",
+  "groupName": "𝗮𝗻𝘁 𝗷𝘂𝗱𝗮𝘀' 👑",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "238358588567757@lid",
+      "msg": 9,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "83 | 𝐦𝐞𝐥𝐨 ᵏᵏᵍʳ",
+      "firstSeen": "2026-03-30T18:06:31.238Z",
+      "lastActivity": "2026-03-30T18:18:17.854Z"
+    },
+    {
+      "id": "243503909044402@lid",
+      "msg": 12,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "carol bbkenti 7",
+      "firstSeen": "2026-03-30T18:07:36.207Z",
+      "lastActivity": "2026-03-30T18:18:16.479Z"
+    },
+    {
+      "id": "47026335138039@lid",
+      "msg": 4,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "by fideliszzz' 🇦🇷",
+      "firstSeen": "2026-03-30T18:13:09.635Z",
+      "lastActivity": "2026-03-30T18:17:30.963Z"
+    },
+    {
+      "id": "57437017079902@lid",
+      "msg": 80,
+      "cmd": 4,
+      "figu": 5,
+      "pushname": "ㅤㅤㅤㅤㅤByLzzzzz.             #671'",
+      "firstSeen": "2026-03-30T18:16:18.541Z",
+      "lastActivity": "2026-04-01T13:39:43.511Z"
+    },
+    {
+      "id": "2611507888217@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "エリック",
+      "firstSeen": "2026-03-30T18:16:52.776Z",
+      "lastActivity": "2026-03-30T18:16:52.776Z"
+    },
+    {
+      "id": "135901925613660@lid",
+      "msg": 4,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Liz",
+      "firstSeen": "2026-03-30T18:17:08.604Z",
+      "lastActivity": "2026-03-30T18:17:46.713Z"
+    }
+  ]
+}

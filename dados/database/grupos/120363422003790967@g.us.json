@@ -1,0 +1,26 @@
+{
+  "mark": {},
+  "createdAt": "2026-03-31T00:17:56.568Z",
+  "groupName": "#1668 passou por aqui",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "9363716595903@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "duda",
+      "firstSeen": "2026-03-31T00:17:56.579Z",
+      "lastActivity": "2026-03-31T00:17:56.579Z"
+    }
+  ]
+}

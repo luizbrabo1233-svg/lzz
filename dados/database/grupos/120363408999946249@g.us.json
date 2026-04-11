@@ -1,0 +1,81 @@
+{
+  "mark": {},
+  "createdAt": "2026-04-03T22:44:59.951Z",
+  "recovered": true,
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "groupName": "💯 mídia",
+  "contador": [
+    {
+      "id": "178490888454245@lid",
+      "msg": 3,
+      "cmd": 2,
+      "figu": 1,
+      "pushname": "barella",
+      "firstSeen": "2026-04-03T22:45:56.116Z",
+      "lastActivity": "2026-04-04T00:58:42.966Z"
+    },
+    {
+      "id": "57437017079902@lid",
+      "msg": 3,
+      "cmd": 4,
+      "figu": 0,
+      "pushname": "ㅤㅤㅤㅤㅤByLzzzzz.             #671'",
+      "firstSeen": "2026-04-04T00:05:19.688Z",
+      "lastActivity": "2026-04-04T01:06:22.439Z"
+    },
+    {
+      "id": "119705134207035@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Silvanete Correia",
+      "firstSeen": "2026-04-04T00:09:07.360Z",
+      "lastActivity": "2026-04-04T01:02:14.633Z"
+    },
+    {
+      "id": "243503909044402@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "carol bbkenti 7",
+      "firstSeen": "2026-04-04T00:37:44.347Z",
+      "lastActivity": "2026-04-04T00:37:44.347Z"
+    },
+    {
+      "id": "167323872833746@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "duda",
+      "firstSeen": "2026-04-04T00:58:19.037Z",
+      "lastActivity": "2026-04-04T00:58:19.037Z"
+    },
+    {
+      "id": "140007494971592@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Gabrielly 🎀👑",
+      "firstSeen": "2026-04-04T00:58:39.975Z",
+      "lastActivity": "2026-04-04T00:58:39.975Z"
+    },
+    {
+      "id": "128127917367412@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "henrique",
+      "firstSeen": "2026-04-04T01:42:57.556Z",
+      "lastActivity": "2026-04-04T01:42:57.556Z"
+    }
+  ]
+}

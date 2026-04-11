@@ -1,0 +1,80 @@
+{
+  "mark": {},
+  "createdAt": "2026-03-30T14:29:34.220Z",
+  "groupName": "Ilha do Epstein",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "234470905000189@lid",
+      "msg": 360,
+      "cmd": 5,
+      "figu": 42,
+      "pushname": "Paulo",
+      "firstSeen": "2026-03-30T14:29:34.220Z",
+      "lastActivity": "2026-04-10T23:38:04.580Z"
+    },
+    {
+      "id": "22900866338816@lid",
+      "msg": 411,
+      "cmd": 3,
+      "figu": 52,
+      "pushname": ".",
+      "firstSeen": "2026-03-30T14:29:43.751Z",
+      "lastActivity": "2026-04-10T23:37:59.299Z"
+    },
+    {
+      "id": "57437017079902@lid",
+      "msg": 409,
+      "cmd": 22,
+      "figu": 39,
+      "pushname": "ㅤㅤ                      Lz          #671'",
+      "firstSeen": "2026-03-30T14:29:48.111Z",
+      "lastActivity": "2026-04-10T23:38:07.877Z"
+    },
+    {
+      "id": "183056203776046@lid",
+      "msg": 50,
+      "cmd": 0,
+      "figu": 6,
+      "pushname": "Dani",
+      "firstSeen": "2026-03-31T11:11:06.998Z",
+      "lastActivity": "2026-04-10T23:29:47.486Z"
+    },
+    {
+      "id": "148034755248369@lid",
+      "msg": 17,
+      "cmd": 0,
+      "figu": 12,
+      "pushname": "Zᥲgᥲrι",
+      "firstSeen": "2026-03-31T16:00:04.605Z",
+      "lastActivity": "2026-04-10T00:53:53.691Z"
+    },
+    {
+      "id": "200073166192862@lid",
+      "msg": 38,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "Margato",
+      "firstSeen": "2026-03-31T16:35:25.741Z",
+      "lastActivity": "2026-04-10T23:38:16.142Z"
+    },
+    {
+      "id": "154666201555064@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 3,
+      "pushname": "b.",
+      "firstSeen": "2026-04-05T21:10:10.106Z",
+      "lastActivity": "2026-04-10T20:44:46.021Z"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "mark": {},
+  "createdAt": "2026-03-30T14:29:22.222Z",
+  "groupName": "𝗪𝗜𝗡𝗠𝗢𝗡𝗘𝗬 💲• 𝗫𝟰",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "78821978062850@lid",
+      "msg": 21,
+      "cmd": 0,
+      "figu": 3,
+      "pushname": "~Davi                   ✌🏽",
+      "firstSeen": "2026-03-30T14:29:22.238Z",
+      "lastActivity": "2026-03-30T14:45:52.206Z"
+    },
+    {
+      "id": "140403202363646@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Julia",
+      "firstSeen": "2026-03-30T14:29:34.736Z",
+      "lastActivity": "2026-03-30T14:29:41.267Z"
+    },
+    {
+      "id": "119778618437791@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "saullosenna",
+      "firstSeen": "2026-03-30T14:31:02.596Z",
+      "lastActivity": "2026-03-30T14:41:59.909Z"
+    },
+    {
+      "id": "251324541190184@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "du",
+      "firstSeen": "2026-03-30T14:34:58.518Z",
+      "lastActivity": "2026-03-30T14:34:58.518Z"
+    },
+    {
+      "id": "161851967012894@lid",
+      "msg": 12,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "hakai",
+      "firstSeen": "2026-03-30T14:35:04.503Z",
+      "lastActivity": "2026-03-30T14:41:46.690Z"
+    },
+    {
+      "id": "264274068938965@lid",
+      "msg": 5,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Junin",
+      "firstSeen": "2026-03-30T14:36:41.580Z",
+      "lastActivity": "2026-03-30T14:40:27.533Z"
+    },
+    {
+      "id": "213726867280066@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "2",
+      "firstSeen": "2026-03-30T14:36:58.845Z",
+      "lastActivity": "2026-03-30T14:36:58.845Z"
+    },
+    {
+      "id": "8078950940899@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "𝖜𝖊𝖘𝖑𝖑𝖊𝖞",
+      "firstSeen": "2026-03-30T14:37:33.811Z",
+      "lastActivity": "2026-03-30T14:38:39.502Z"
+    },
+    {
+      "id": "125915958874236@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Mickael",
+      "firstSeen": "2026-03-30T14:40:11.752Z",
+      "lastActivity": "2026-03-30T14:41:19.158Z"
+    },
+    {
+      "id": "27759111852193@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "rk",
+      "firstSeen": "2026-03-30T14:41:54.847Z",
+      "lastActivity": "2026-03-30T14:41:54.847Z"
+    }
+  ]
+}

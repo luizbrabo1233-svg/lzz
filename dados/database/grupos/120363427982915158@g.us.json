@@ -1,0 +1,35 @@
+{
+  "mark": {},
+  "createdAt": "2026-03-30T14:34:20.894Z",
+  "groupName": "arquived by lzz",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "57437017079902@lid",
+      "msg": 2,
+      "cmd": 9,
+      "figu": 0,
+      "pushname": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤLzzzzㅤ\nㅤ\nㅤ\nㅤ\n\nㅤㅤ\n                       ㅤㅤ  #671'\nㅤ\nㅤ\nㅤㅤ\nㅤ\nㅤㅤㅤㅤㅤㅤㅤ",
+      "firstSeen": "2026-03-30T14:34:20.894Z",
+      "lastActivity": "2026-03-30T14:37:38.738Z"
+    },
+    {
+      "id": "22900866338816@lid",
+      "msg": 0,
+      "cmd": 1,
+      "figu": 0,
+      "pushname": ".",
+      "firstSeen": "2026-03-30T14:34:58.268Z",
+      "lastActivity": "2026-03-30T14:34:58.268Z"
+    }
+  ]
+}

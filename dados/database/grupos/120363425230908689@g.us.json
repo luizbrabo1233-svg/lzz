@@ -1,0 +1,71 @@
+{
+  "mark": {},
+  "createdAt": "2026-03-31T22:45:54.435Z",
+  "groupName": "X1 • X6  🩸  | DARK BLOOD",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "62853172199628@lid",
+      "msg": 6,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "szzzz",
+      "firstSeen": "2026-03-31T22:45:54.667Z",
+      "lastActivity": "2026-03-31T22:47:13.758Z"
+    },
+    {
+      "id": "91702517850115@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "fashion #𝟳𝟳𝟳𝘅",
+      "firstSeen": "2026-04-01T01:14:32.641Z",
+      "lastActivity": "2026-04-01T01:15:42.698Z"
+    },
+    {
+      "id": "163638891515967@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "𝑪𝑨𝑹𝑳𝑶𝑺 𝑲𝟑",
+      "firstSeen": "2026-04-03T13:33:27.081Z",
+      "lastActivity": "2026-04-03T13:33:27.081Z"
+    },
+    {
+      "id": "68763030425686@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Beu ⚡",
+      "firstSeen": "2026-04-06T02:36:20.586Z",
+      "lastActivity": "2026-04-06T02:39:42.690Z"
+    },
+    {
+      "id": "64107084513397@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "silva",
+      "firstSeen": "2026-04-06T02:37:21.317Z",
+      "lastActivity": "2026-04-06T02:37:21.317Z"
+    },
+    {
+      "id": "33449960321027@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Deusanio.",
+      "firstSeen": "2026-04-06T02:39:02.286Z",
+      "lastActivity": "2026-04-06T02:39:02.286Z"
+    }
+  ]
+}

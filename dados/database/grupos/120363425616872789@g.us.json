@@ -1,0 +1,72 @@
+{
+  "mark": {},
+  "createdAt": "2026-04-06T22:51:39.214Z",
+  "recovered": true,
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "groupName": "semetery’ chat",
+  "contador": [
+    {
+      "id": "51398611828965@lid",
+      "msg": 4,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Polo",
+      "firstSeen": "2026-04-06T22:56:00.240Z",
+      "lastActivity": "2026-04-06T23:05:22.955Z"
+    },
+    {
+      "id": "249598434127905@lid",
+      "msg": 98,
+      "cmd": 22,
+      "figu": 49,
+      "pushname": "pacr #bt'z",
+      "firstSeen": "2026-04-06T22:56:12.295Z",
+      "lastActivity": "2026-04-10T04:49:31.033Z"
+    },
+    {
+      "id": "47485846343828@lid",
+      "msg": 87,
+      "cmd": 13,
+      "figu": 20,
+      "pushname": "teresa bt’z",
+      "firstSeen": "2026-04-06T23:26:09.421Z",
+      "lastActivity": "2026-04-09T21:37:18.248Z"
+    },
+    {
+      "id": "56668301877446@lid",
+      "msg": 43,
+      "cmd": 7,
+      "figu": 7,
+      "pushname": "tio toni",
+      "firstSeen": "2026-04-06T23:27:57.070Z",
+      "lastActivity": "2026-04-07T22:53:52.333Z"
+    },
+    {
+      "id": "183004915859634@lid",
+      "msg": 35,
+      "cmd": 9,
+      "figu": 10,
+      "pushname": "toni",
+      "firstSeen": "2026-04-07T02:41:05.739Z",
+      "lastActivity": "2026-04-09T19:36:31.475Z"
+    },
+    {
+      "id": "57437017079902@lid",
+      "msg": 1,
+      "cmd": 3,
+      "figu": 0,
+      "pushname": "ㅤㅤ         ㅤLzpecinhadumal33            #671'",
+      "firstSeen": "2026-04-09T14:21:59.115Z",
+      "lastActivity": "2026-04-09T21:36:40.147Z"
+    }
+  ]
+}

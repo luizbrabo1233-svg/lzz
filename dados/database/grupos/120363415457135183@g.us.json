@@ -1,0 +1,80 @@
+{
+  "mark": {},
+  "createdAt": "2026-03-31T01:42:35.012Z",
+  "groupName": "Rio Tietê - RTT",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "10647727304861@lid",
+      "msg": 57,
+      "cmd": 0,
+      "figu": 3,
+      "pushname": "👺",
+      "firstSeen": "2026-03-31T01:42:35.028Z",
+      "lastActivity": "2026-04-11T15:29:19.050Z"
+    },
+    {
+      "id": "104316350271667@lid",
+      "msg": 27,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "Guizin",
+      "firstSeen": "2026-03-31T16:11:40.960Z",
+      "lastActivity": "2026-04-11T14:21:46.854Z"
+    },
+    {
+      "id": "213180768899216@lid",
+      "msg": 74,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Nicolas",
+      "firstSeen": "2026-03-31T22:57:39.224Z",
+      "lastActivity": "2026-04-10T23:55:26.449Z"
+    },
+    {
+      "id": "205884156309574@lid",
+      "msg": 7,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Marrom",
+      "firstSeen": "2026-04-01T21:45:44.269Z",
+      "lastActivity": "2026-04-05T20:44:36.705Z"
+    },
+    {
+      "id": "10600063213602@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "dieferson pablo",
+      "firstSeen": "2026-04-03T23:58:29.018Z",
+      "lastActivity": "2026-04-03T23:58:29.018Z"
+    },
+    {
+      "id": "188205819256953@lid",
+      "msg": 144,
+      "cmd": 0,
+      "figu": 8,
+      "pushname": "...",
+      "firstSeen": "2026-04-09T10:58:19.753Z",
+      "lastActivity": "2026-04-11T15:28:42.824Z"
+    },
+    {
+      "id": "57437017079902@lid",
+      "msg": 62,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "ㅤㅤ                      Lz          #671'",
+      "firstSeen": "2026-04-09T14:31:35.879Z",
+      "lastActivity": "2026-04-11T15:23:44.188Z"
+    }
+  ]
+}

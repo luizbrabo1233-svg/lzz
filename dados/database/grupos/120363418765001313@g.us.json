@@ -1,0 +1,80 @@
+{
+  "mark": {},
+  "createdAt": "2026-04-03T15:16:35.984Z",
+  "groupName": "Faz favor fia",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "210943577464983@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "قبالة كل شيء",
+      "firstSeen": "2026-04-03T15:16:36.436Z",
+      "lastActivity": "2026-04-03T15:16:36.436Z"
+    },
+    {
+      "id": "245792992456876@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "..",
+      "firstSeen": "2026-04-03T15:16:49.525Z",
+      "lastActivity": "2026-04-03T20:47:20.878Z"
+    },
+    {
+      "id": "195610644893890@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Wallison👾",
+      "firstSeen": "2026-04-03T18:13:48.112Z",
+      "lastActivity": "2026-04-03T18:13:48.112Z"
+    },
+    {
+      "id": "60946089263318@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "‎yoo ﷽",
+      "firstSeen": "2026-04-03T18:15:55.760Z",
+      "lastActivity": "2026-04-03T18:15:55.760Z"
+    },
+    {
+      "id": "118498751721576@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": ".",
+      "firstSeen": "2026-04-03T19:24:16.582Z",
+      "lastActivity": "2026-04-03T19:24:16.582Z"
+    },
+    {
+      "id": "158506439172230@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "deborah",
+      "firstSeen": "2026-04-03T19:33:02.722Z",
+      "lastActivity": "2026-04-03T19:33:02.722Z"
+    },
+    {
+      "id": "57437017079902@lid",
+      "msg": 0,
+      "cmd": 1,
+      "figu": 0,
+      "pushname": "ㅤㅤㅤㅤㅤByLzzzzz.             #671'",
+      "firstSeen": "2026-04-03T20:55:57.003Z",
+      "lastActivity": "2026-04-03T20:55:57.003Z"
+    }
+  ]
+}

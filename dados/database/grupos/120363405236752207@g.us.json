@@ -1,0 +1,53 @@
+{
+  "mark": {},
+  "createdAt": "2026-03-31T00:17:35.741Z",
+  "groupName": "sentou no based",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "9363716595903@lid",
+      "msg": 9,
+      "cmd": 1,
+      "figu": 4,
+      "pushname": "duda",
+      "firstSeen": "2026-03-31T00:17:35.750Z",
+      "lastActivity": "2026-03-31T02:23:28.310Z"
+    },
+    {
+      "id": "57437017079902@lid",
+      "msg": 36,
+      "cmd": 3,
+      "figu": 1,
+      "pushname": "ㅤㅤㅤㅤㅤByLzzzzz.             #671'",
+      "firstSeen": "2026-03-31T00:17:36.823Z",
+      "lastActivity": "2026-03-31T22:55:54.897Z"
+    },
+    {
+      "id": "167323872833746@lid",
+      "msg": 12,
+      "cmd": 1,
+      "figu": 3,
+      "pushname": "duda",
+      "firstSeen": "2026-03-31T02:18:17.528Z",
+      "lastActivity": "2026-03-31T23:05:49.708Z"
+    },
+    {
+      "id": "130382758445064@lid",
+      "msg": 10,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "ㅤbased⁵⁷'",
+      "firstSeen": "2026-03-31T22:02:33.611Z",
+      "lastActivity": "2026-03-31T23:06:20.118Z"
+    }
+  ]
+}

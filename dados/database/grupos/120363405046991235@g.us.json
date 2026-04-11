@@ -1,0 +1,71 @@
+{
+  "mark": {},
+  "createdAt": "2026-03-30T19:23:34.434Z",
+  "groupName": "La cuna 21 2.0",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "223201414119488@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Soneca",
+      "firstSeen": "2026-03-30T19:23:34.434Z",
+      "lastActivity": "2026-03-30T19:23:34.512Z"
+    },
+    {
+      "id": "57437017079902@lid",
+      "msg": 14,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "ㅤㅤㅤㅤㅤByLzzzzz.             #671'",
+      "firstSeen": "2026-03-30T22:50:58.234Z",
+      "lastActivity": "2026-03-31T02:05:56.419Z"
+    },
+    {
+      "id": "129781714653329@lid",
+      "msg": 5,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "welitu's bot n chame pv",
+      "firstSeen": "2026-03-30T22:51:19.624Z",
+      "lastActivity": "2026-03-31T02:04:48.715Z"
+    },
+    {
+      "id": "37568850743310@lid",
+      "msg": 9,
+      "cmd": 0,
+      "figu": 3,
+      "pushname": "𝒉𝒊𝒈𝒉𝒍𝒂𝒏𝒅𝒆𝒓                                      𝑾𝒉𝒊𝒔𝒕𝒍𝒆𝒓",
+      "firstSeen": "2026-03-30T22:51:24.292Z",
+      "lastActivity": "2026-03-31T02:06:13.168Z"
+    },
+    {
+      "id": "196688731963592@lid",
+      "msg": 6,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Pereira",
+      "firstSeen": "2026-03-30T22:56:28.809Z",
+      "lastActivity": "2026-03-30T22:56:46.491Z"
+    },
+    {
+      "id": "272812698763302@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "' 𝕾𝖎𝖑𝖛𝖆𝖝",
+      "firstSeen": "2026-03-31T00:29:33.665Z",
+      "lastActivity": "2026-03-31T00:29:43.226Z"
+    }
+  ]
+}
