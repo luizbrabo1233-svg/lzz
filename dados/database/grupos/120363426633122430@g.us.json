@@ -70,21 +70,21 @@
     },
     {
       "id": "117854624047178@lid",
-      "msg": 637,
+      "msg": 640,
       "cmd": 19,
       "figu": 22,
       "pushname": "menezes'",
       "firstSeen": "2026-04-10T15:41:30.158Z",
-      "lastActivity": "2026-04-11T15:04:10.299Z"
+      "lastActivity": "2026-04-11T15:45:44.912Z"
     },
     {
       "id": "154391944392755@lid",
-      "msg": 82,
+      "msg": 83,
       "cmd": 2,
       "figu": 12,
       "pushname": "rafawzy",
       "firstSeen": "2026-04-10T15:42:26.706Z",
-      "lastActivity": "2026-04-11T15:05:12.927Z"
+      "lastActivity": "2026-04-11T15:45:25.172Z"
     },
     {
       "id": "129639964000299@lid",
@@ -97,12 +97,12 @@
     },
     {
       "id": "46888929763558@lid",
-      "msg": 780,
+      "msg": 782,
       "cmd": 3,
       "figu": 4,
       "pushname": "samantha",
       "firstSeen": "2026-04-10T15:45:55.769Z",
-      "lastActivity": "2026-04-11T15:27:31.780Z"
+      "lastActivity": "2026-04-11T15:45:37.370Z"
     },
     {
       "id": "258424440901642@lid",
@@ -259,12 +259,12 @@
     },
     {
       "id": "28145658900691@lid",
-      "msg": 406,
+      "msg": 407,
       "cmd": 8,
       "figu": 15,
       "pushname": "evinhawzy",
       "firstSeen": "2026-04-10T16:50:44.103Z",
-      "lastActivity": "2026-04-11T15:23:53.320Z"
+      "lastActivity": "2026-04-11T15:45:30.551Z"
     },
     {
       "id": "88661664223419@lid",
@@ -286,12 +286,12 @@
     },
     {
       "id": "32565096382677@lid",
-      "msg": 497,
+      "msg": 498,
       "cmd": 6,
       "figu": 18,
       "pushname": "jeniwzy",
       "firstSeen": "2026-04-10T17:03:17.202Z",
-      "lastActivity": "2026-04-11T15:30:29.884Z"
+      "lastActivity": "2026-04-11T15:45:16.851Z"
     },
     {
       "id": "76979386748973@lid",
@@ -940,6 +940,15 @@
       "pushname": "sannt’          on",
       "firstSeen": "2026-04-11T15:03:15.302Z",
       "lastActivity": "2026-04-11T15:03:29.462Z"
+    },
+    {
+      "id": "212910638907552@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Victor Gabriel",
+      "firstSeen": "2026-04-11T15:45:31.199Z",
+      "lastActivity": "2026-04-11T15:45:31.199Z"
     }
   ],
   "modobrincadeira": true,
