@@ -20,6 +20,7 @@
     "license": "ISC",
     "dependencies": {
         "@hapi/boom": "^10.0.1",
+        "@whiskeysockets/baileys": "^7.0.0-rc10",
         "axios": "^1.13.2",
         "cheerio": "^1.2.0",
         "fluent-ffmpeg": "^2.1.3",

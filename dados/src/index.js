@@ -8,7 +8,6 @@ import {
   fetchLatestBaileysVersion,
   makeCacheableSignalKeyStore
 } from 'whaileys';
-
 import { exec, execSync, spawn } from 'child_process';
 import { promisify } from 'util';
 
@@ -721,6 +720,17 @@ async function NazuninhaBotExec(nazu, info, store, messagesCache, rentalExpirati
       throw e;
     }
   };
+
+  async function getFileBuffer(message, type) {
+  const stream = await downloadContentFromMessage(message, type);
+  let buffer = Buffer.from([]);
+
+  for await (const chunk of stream) {
+    buffer = Buffer.concat([buffer, chunk]);
+  }
+
+  return buffer;
+}
   
   async function getCachedGroupMetadata(groupId) {
     try {
@@ -5051,18 +5061,18 @@ if (texto.includes("anaa")) {
     }
   });
 }
-if (texto.includes("efiver")) {
+if (texto.includes("maria")) {
   await nazu.sendMessage(from, {
     react: {
-      text: "🃏",
+      text: "🧜🏿‍♀️",
       key: info.key
     }
   });
 }
-if (texto.includes("lulu")) {
+if (texto.includes("nat")) {
   await nazu.sendMessage(from, {
     react: {
-      text: "🎭",
+      text: "🐶",
       key: info.key
     }
   });
@@ -5071,6 +5081,134 @@ if (texto.includes("lz")) {
   await nazu.sendMessage(from, {
     react: {
       text: "👑",
+      key: info.key
+    }
+  });
+}
+if (texto.includes("rafa")) {
+  await nazu.sendMessage(from, {
+    react: {
+      text: "🇦🇹",
+      key: info.key
+    }
+  });
+}
+if (texto.includes("evinha")) {
+  await nazu.sendMessage(from, {
+    react: {
+      text: "😌",
+      key: info.key
+    }
+  });
+}
+if (texto.includes("samantha")) {
+  await nazu.sendMessage(from, {
+    react: {
+      text: "🎀",
+      key: info.key
+    }
+  });
+}
+if (texto.includes("jessica")) {
+  await nazu.sendMessage(from, {
+    react: {
+      text: "👸🏿",
+      key: info.key
+    }
+  });
+}
+if (texto.includes("duda")) {
+  await nazu.sendMessage(from, {
+    react: {
+      text: "👸🏿",
+      key: info.key
+    }
+  });
+}
+if (texto.includes("jeni")) {
+  await nazu.sendMessage(from, {
+    react: {
+      text: "🌝",
+      key: info.key
+    }
+  });
+}
+if (texto.includes("lu")) {
+  await nazu.sendMessage(from, {
+    react: {
+      text: "😒",
+      key: info.key
+    }
+  });
+}
+if (texto.includes("menezes")) {
+  await nazu.sendMessage(from, {
+    react: {
+      text: "😒",
+      key: info.key
+    }
+  });
+}
+if (texto.includes("canela")) {
+  await nazu.sendMessage(from, {
+    react: {
+      text: "💩",
+      key: info.key
+    }
+  });
+}
+if (texto.includes("sasa")) {
+  await nazu.sendMessage(from, {
+    react: {
+      text: "🍌",
+      key: info.key
+    }
+  });
+}
+if (texto.includes("dhiego")) {
+  await nazu.sendMessage(from, {
+    react: {
+      text: "💩",
+      key: info.key
+    }
+  });
+}
+if (texto.includes("samy")) {
+  await nazu.sendMessage(from, {
+    react: {
+      text: "👸🏿",
+      key: info.key
+    }
+  });
+}
+if (texto.includes("mendes")) {
+  await nazu.sendMessage(from, {
+    react: {
+      text: "👸🏿",
+      key: info.key
+    }
+  });
+}
+if (texto.includes("isa")) {
+  await nazu.sendMessage(from, {
+    react: {
+      text: "🐢",
+      key: info.key
+    }
+  });
+}
+if (texto.includes("isabella")) {
+  await nazu.sendMessage(from, {
+    react: {
+      text: "🐢",
+      key: info.key
+    }
+  });
+}
+if (texto.includes("indio")) {
+  await nazu.sendMessage(from, {
+    react: {
+      text: "🐟",
       key: info.key
     }
   });
@@ -18626,11 +18764,11 @@ case 'ytmp3':
       videoUrl = q;
       await reply('Aguarde um momentinho... ☀️');
 
-      youtube.mp3(videoUrl, 128)
-        .then(async (dlRes) => {
-          if (!dlRes.ok)
-            return nazu.sendMessage(from, { text: `❌ Erro ao baixar o áudio: ${dlRes.msg}` }, { quoted: info });
-
+exec(`./yt-dlp.exe -x --audio-format mp3 -o "audio.mp3" ${videoUrl}`, async (err) => {
+  if (err) {
+    console.error(err);
+    return nazu.sendMessage(from, { text: '❌ Erro ao baixar áudio' }, { quoted: info });
+  }
           try {
             await nazu.sendMessage(from, {
               audio: dlRes.buffer,
@@ -24296,8 +24434,8 @@ ${prefix}togglecmdvip premium_ia off`);
           const cores = ["f702ff", "ff0202", "00ff2e", "efff00", "00ecff", "3100ff", "ffb400", "ff00b0", "00ff95", "9d00ff", "ff6b00", "00fff7", "ff00d4", "a8ff00", "ff0062", "00b3ff", "d4ff00", "ff009d"];
           
           // Selecionar uma fonte aleatória
-          const fontes = ["Days%20One", "Domine", "Exo", "Fredoka%20One", "Gentium%20Basic", "Gloria%20Hallelujah", "Great%20Vibes", "Orbitron", "PT%20Serif", "Pacifico"];
-          const fonteEscolhida = fontes[Math.floor(Math.random() * fontes.length)];
+          const fontes = ["Fredoka%20One", "Days%20One", "Exo", "Orbitron"];
+          const fonteEscolhida = "Fredoka%20One";
           
           // Diretório temporário
           const tempDir = path.join(__dirname, '../midias/temp_attp_' + Date.now());
@@ -24313,7 +24451,7 @@ ${prefix}togglecmdvip premium_ia off`);
           
           for (let i = 0; i < numFrames; i++) {
             const cor = cores[i % cores.length];
-            const imageUrl = `https://huratera.sirv.com/PicsArt_08-01-10.00.42.png?profile=Example-Text&text.0.text=${encodeURIComponent(processedText)}&text.0.outline.color=000000&text.0.outline.blur=0&text.0.outline.opacity=55&text.0.color=${cor}&text.0.font.family=${fonteEscolhida}&text.0.font.weight=bold&text.0.background.color=ff0000`;
+            const imageUrl = `https://huratera.sirv.com/PicsArt_08-01-10.00.42.png?profile=Example-Text&text.0.text=${encodeURIComponent(processedText)}&text.0.outline.color=000000&text.0.outline.blur=0&text.0.outline.opacity=100&text.0.color=${cor}&text.0.font.family=${fonteEscolhida}&text.0.font.weight=bold&text.0.background.color=transparent`;
             const imagePath = path.join(tempDir, `frame_${String(i).padStart(3, '0')}.png`);
             
             downloadPromises.push(
@@ -24431,6 +24569,75 @@ ${prefix}togglecmdvip premium_ia off`);
           await reply("❌ Ocorreu um erro interno. Tente novamente em alguns minutos.");
         }
         break;
+        case 'togif': {
+  try {
+    const fs = require('fs')
+    const { exec } = require('child_process')
+    const { downloadContentFromMessage } = require('@whiskeysockets/baileys')
+
+    const quoted = info.message?.extendedTextMessage?.contextInfo?.quotedMessage
+
+    const sticker =
+      quoted?.stickerMessage ||
+      info.message?.stickerMessage ||
+      quoted?.viewOnceMessageV2?.message?.stickerMessage ||
+      info.message?.viewOnceMessageV2?.message?.stickerMessage
+
+    if (!sticker) {
+      return reply('❌ Responda uma figurinha animada!')
+    }
+
+    if (!sticker.isAnimated) {
+      return reply('❌ A figurinha precisa ser animada!')
+    }
+
+    // 🔥 cria pasta tmp
+    if (!fs.existsSync('./tmp')) {
+      fs.mkdirSync('./tmp')
+    }
+
+    // 🔥 DOWNLOAD CORRETO (ESSA É A DIFERENÇA)
+    const stream = await downloadContentFromMessage(sticker, 'sticker')
+
+    let buffer = Buffer.from([])
+    for await (const chunk of stream) {
+      buffer = Buffer.concat([buffer, chunk])
+    }
+
+    if (!buffer || buffer.length < 1000) {
+      return reply('❌ Falha ao baixar figurinha')
+    }
+
+    const input = `./tmp/${Date.now()}.webp`
+    const output = `./tmp/${Date.now()}.mp4`
+
+    fs.writeFileSync(input, buffer)
+
+    reply('⏳ Convertendo...')
+
+    // 🔥 FFMPEG CERTO
+    exec(`ffmpeg -y -i "${input}" -vf "fps=15,scale=512:512:flags=lanczos" -movflags faststart -pix_fmt yuv420p "${output}"`, async (err) => {
+      if (err) {
+        console.log(err)
+        return reply('❌ Erro ao converter!')
+      }
+
+      const video = fs.readFileSync(output)
+
+      await nazu.sendMessage(from, {
+        video: video
+      }, { quoted: info })
+
+      fs.unlinkSync(input)
+      fs.unlinkSync(output)
+    })
+
+  } catch (e) {
+    console.log(e)
+    reply('❌ Deu erro')
+  }
+}
+break;
       case 'rename':
       case 'renomear':
       case 'mudarpack':

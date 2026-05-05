@@ -96,6 +96,123 @@
       "terminatedAt": null,
       "terminatedBy": null,
       "lastStatus": "namoro"
+    },
+    "149963682087111@lid::48168796430377@lid": {
+      "users": [
+        "48168796430377@lid",
+        "149963682087111@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-05-03T04:40:48.403Z",
+          "requestedBy": "48168796430377@lid",
+          "acceptedBy": "149963682087111@lid",
+          "groupId": "120363427188597337@g.us",
+          "requestedAt": "2026-05-03T04:40:37.028Z",
+          "acceptedAt": "2026-05-03T04:40:48.403Z"
+        },
+        "brincadeira": {
+          "since": "2026-05-03T04:40:48.403Z",
+          "requestedBy": "48168796430377@lid",
+          "acceptedBy": "149963682087111@lid",
+          "groupId": "120363427188597337@g.us",
+          "requestedAt": "2026-05-03T04:40:37.028Z",
+          "acceptedAt": "2026-05-03T04:40:48.403Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "48168796430377@lid",
+          "acceptedBy": "149963682087111@lid",
+          "requestedAt": "2026-05-03T04:40:37.028Z",
+          "acceptedAt": "2026-05-03T04:40:48.403Z"
+        }
+      ],
+      "createdAt": "2026-05-03T04:40:48.403Z",
+      "updatedAt": "2026-05-03T04:40:48.403Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "1327966998613@lid::260589305733342@lid": {
+      "users": [
+        "260589305733342@lid",
+        "1327966998613@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-05-03T14:26:12.520Z",
+          "requestedBy": "260589305733342@lid",
+          "acceptedBy": "1327966998613@lid",
+          "groupId": "120363427188597337@g.us",
+          "requestedAt": "2026-05-03T14:26:00.115Z",
+          "acceptedAt": "2026-05-03T14:26:12.520Z"
+        },
+        "brincadeira": {
+          "since": "2026-05-03T14:26:12.520Z",
+          "requestedBy": "260589305733342@lid",
+          "acceptedBy": "1327966998613@lid",
+          "groupId": "120363427188597337@g.us",
+          "requestedAt": "2026-05-03T14:26:00.115Z",
+          "acceptedAt": "2026-05-03T14:26:12.520Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "260589305733342@lid",
+          "acceptedBy": "1327966998613@lid",
+          "requestedAt": "2026-05-03T14:26:00.115Z",
+          "acceptedAt": "2026-05-03T14:26:12.520Z"
+        }
+      ],
+      "createdAt": "2026-05-03T14:26:12.520Z",
+      "updatedAt": "2026-05-03T14:26:12.520Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
+    },
+    "121840336945304@lid::31470013927676@lid": {
+      "users": [
+        "121840336945304@lid",
+        "31470013927676@lid"
+      ],
+      "status": "namoro",
+      "stages": {
+        "namoro": {
+          "since": "2026-05-04T07:39:20.064Z",
+          "requestedBy": "121840336945304@lid",
+          "acceptedBy": "31470013927676@lid",
+          "groupId": "120363427188597337@g.us",
+          "requestedAt": "2026-05-04T07:39:11.891Z",
+          "acceptedAt": "2026-05-04T07:39:20.064Z"
+        },
+        "brincadeira": {
+          "since": "2026-05-04T07:39:20.064Z",
+          "requestedBy": "121840336945304@lid",
+          "acceptedBy": "31470013927676@lid",
+          "groupId": "120363427188597337@g.us",
+          "requestedAt": "2026-05-04T07:39:11.891Z",
+          "acceptedAt": "2026-05-04T07:39:20.064Z"
+        }
+      },
+      "history": [
+        {
+          "type": "namoro",
+          "requestedBy": "121840336945304@lid",
+          "acceptedBy": "31470013927676@lid",
+          "requestedAt": "2026-05-04T07:39:11.891Z",
+          "acceptedAt": "2026-05-04T07:39:20.064Z"
+        }
+      ],
+      "createdAt": "2026-05-04T07:39:20.064Z",
+      "updatedAt": "2026-05-04T07:39:20.064Z",
+      "terminatedAt": null,
+      "terminatedBy": null,
+      "lastStatus": "namoro"
     }
   },
   "archived": []

@@ -1,0 +1,36 @@
+{
+  "mark": {},
+  "createdAt": "2026-05-02T23:08:12.349Z",
+  "groupName": "Bot",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "167323872833746@lid",
+      "msg": 19,
+      "cmd": 6,
+      "figu": 3,
+      "pushname": "duda",
+      "firstSeen": "2026-05-02T23:08:12.353Z",
+      "lastActivity": "2026-05-02T23:16:52.586Z"
+    },
+    {
+      "id": "205020901429278@lid",
+      "msg": 24,
+      "cmd": 7,
+      "figu": 13,
+      "pushname": "Jv031",
+      "firstSeen": "2026-05-02T23:08:32.213Z",
+      "lastActivity": "2026-05-02T23:16:41.916Z"
+    }
+  ],
+  "modobrincadeira": true
+}
